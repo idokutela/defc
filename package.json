@@ -4,7 +4,7 @@
   "description": "A minimal react wrapper for clojurescript",
   "main": "index.js",
   "author": "Alexander Kahle",
-  "license": "MIT",
+  "license": "Parity",
   "peerDependencies": {
     "react": "^16.8.1",
     "react-dom": "^16.8.1"
